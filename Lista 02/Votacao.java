@@ -21,12 +21,19 @@ public class Votacao {
         for (int i = 0; i < 10; i++) {
             System.out.println("Vote no seu sabor de pizza favorito: ");
             Integer voto = leitor.nextInt();
-            if (voto % 50 == 0) {
-                queijo++;
-            } else if (voto % 25 == 0) {
-                calabresa++;
-            } else {
-                mussarela++;
+            switch (voto){
+                case 5: 
+                    mussarela++;
+                    break;
+                case 25:
+                    calabresa++;
+                    break;
+                case 50: 
+                    queijo++;
+                    break;
+                default:
+                    System.out.println("Numero votado invalido!");
+                    i--;
             }
         }
         System.out.println(String.format("Mussarela: %d", mussarela));
