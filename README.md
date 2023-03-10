@@ -7,6 +7,7 @@
 <br/><br/>
 <h2>Autor</h2>
 <div>
-<img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/111136206?v=4" width="100px;" alt=""/><br/><p>       <b>Thiago Hideki</b></p></div>
+<img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/111136206?v=4" width="100px;" alt=""/><br/><p>       <b>Thiago Hideki</b></p>
 <div>
-<img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/111136206?v=4" width="100px;" alt=""/><br/><p>       <b>Thiago Hideki</b></p></div>
+<img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/111136206?v=4" width="100px;" alt=""/><br/><p>       <b>Thiago Hideki</b></p></div></div>
+
