@@ -1,0 +1,5 @@
+com\hideki\exemplo\classe\abstrata\TesteMecanica.class
+com\hideki\exemplo\classe\abstrata\Mecanica.class
+com\hideki\exemplo\classe\abstrata\Carro.class
+com\hideki\exemplo\classe\abstrata\Bicicleta.class
+com\hideki\exemplo\classe\abstrata\Veiculo.class
